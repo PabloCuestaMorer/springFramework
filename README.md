@@ -1,4 +1,4 @@
-# :leaves: Spring 5
+# :leaves: Spring Framework 5.x
 
 Repository with projects on what has been learned in:
 * Spring Framework 5
